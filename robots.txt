@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-krts6r.shadowdiary.com/sitemap.xml
